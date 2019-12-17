@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="00011667-80fd-4e6a-bc43-23ce3e8fd064" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="00011667-80fd-4e6a-bc43-23ce3e8fd064" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,8 +99,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="9" y="4" width="1881" height="993" extended-state="1" />
-    <editor active="true" />
+    <frame x="9" y="4" width="1881" height="993" extended-state="0" />
     <layout>
       <window_info id="Captures" order="0" weight="0.25" />
       <window_info id="Capture Tool" order="1" />
@@ -116,8 +113,8 @@
       <window_info anchor="bottom" id="DB Execution Console" order="0" />
       <window_info anchor="bottom" id="TODO" order="1" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="3" visible="true" weight="0.5426357" />
-      <window_info anchor="bottom" id="Terminal" order="4" weight="0.4716495" />
+      <window_info anchor="bottom" id="Version Control" order="3" weight="0.6627907" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="4" visible="true" weight="0.498708" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
       <window_info anchor="right" id="Palette&#9;" order="2" />
